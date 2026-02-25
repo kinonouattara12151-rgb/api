@@ -1,0 +1,21 @@
+header{background-color: #2ecfac;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    text-transform: uppercase;
+}
+
+body{font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 20px;
+    padding: 20px;
+}
+
+strong{
+    color: rgb(240, 38, 38);
+}
+
+section{
+    background-color: rgb(215, 240, 238);
+    margin: 20px;
+    padding: 20px;
